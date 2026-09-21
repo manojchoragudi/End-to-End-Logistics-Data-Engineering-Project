@@ -1,0 +1,9 @@
+[
+  {"file" : "customers.csv"},
+  {"file" : "drivers.csv"},
+  {"file" : "orders.csv"},
+  {"file" : "shipments.csv"},
+  {"file" : "tracking_events.csv"},
+  {"file" : "vehicles.csv"},
+  {"file" : "warehouses.csv"}
+]
