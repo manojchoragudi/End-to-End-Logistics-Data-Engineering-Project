@@ -1,7 +1,0 @@
-warehouse_id,warehouse_name,city,state,capacity,warehouse_type
-WH001,Hyderabad Central,Hyderabad,Telangana,50000,Fulfillment
-WH002,Mumbai West,Mumbai,Maharashtra,75000,Distribution
-WH003,Bengaluru South,Bengaluru,Karnataka,60000,Fulfillment
-WH004,Chennai Hub,Chennai,Tamil Nadu,65000,Distribution
-WH005,Delhi North,New Delhi,Delhi,80000,Fulfillment
-WH006,Ahmedabad Hub,Ahmedabad,Gujarat,55000,Distribution
