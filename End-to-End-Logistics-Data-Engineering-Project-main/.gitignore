@@ -1,0 +1,22 @@
+# Secrets / credentials
+.env
+*.key
+*.pem
+*.pfx
+secrets/
+credentials/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Databricks
+.databricks/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
