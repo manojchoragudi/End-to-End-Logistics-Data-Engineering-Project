@@ -1,4 +1,4 @@
-# End-to-End Logistics Data Engineering Platform
+# **End-to-End Logistics Data Engineering Platform**
 
 ## 📌 Project Overview
 
@@ -111,7 +111,9 @@ The final Gold layer follows a **Star Schema** and provides business-ready SQL v
 | PySpark                      | Data transformation and processing     |
 | GitHub                       | Source control and version management  |
 
-#🔄 Batch Data Pipeline
+---
+
+## 🔄 Batch Data Pipeline
     
     Source CSV / JSON
            ↓
@@ -143,7 +145,7 @@ The final Gold layer follows a **Star Schema** and provides business-ready SQL v
           ↓
     Gold fact_tracking_events
 
-##🗂️ Project Structure
+## 🗂️ Project Structure
 
     End-to-End-Logistics-Data-Engineering-Project/
     │
@@ -188,8 +190,9 @@ The final Gold layer follows a **Star Schema** and provides business-ready SQL v
     ├── orders.csv
     ├── shipments.csv
     └── tracking_events.csv
-
-##🧪 Data Quality
+    
+---    
+## 🧪 Data Quality
 
 - Missing customer city
 - Missing customer ID
@@ -252,7 +255,7 @@ The final Gold layer follows a **Star Schema** and provides business-ready SQL v
                     │
                     ▼
              Silver / Gold
-##📌 Project Status
+## 📌 Project Status
  **Status: Completed**
 
 **Implemented components:**
